@@ -32,8 +32,8 @@ html,body,.wrapper {
 	color: #dbcdbe;
 }
 
-#randomArticle a:hover{
-	text-decoration: none;
+#randomArticle span {
+	font-size: 22px;
 	color: #f6fbfe;
 }
 
